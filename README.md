@@ -1,4 +1,4 @@
-Hello from the server side 👋
+Hello from the other side 👋
 
 - What I use👇
 
